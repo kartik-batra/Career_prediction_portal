@@ -1,0 +1,8 @@
+<- How to Run the project ->
+
+1. Download the zip folder.
+2. Unzip the files.
+3. In the folder where you see "Stream_predictor_model.pkl" file, right click anywhere in the folder
+   and select "Open in terminal".
+4. Type "python manage.py runserver" in the terminal and press enter.
+5. It will generate a port link, vopy that link in your browser and you're ready to go.
